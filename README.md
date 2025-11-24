@@ -5,4 +5,4 @@ Currently, two official plugins are av
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/)
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) 
 ## Expanding the ESLint configur
-If you are developing a production application, we recommend using TypeScript with type-awarelint rules enabledC o the[TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) 
+If you are developing a production application, we recommend using TypeScript with type-awarelint rules enabled o the[TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) 
