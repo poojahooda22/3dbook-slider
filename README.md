@@ -1,7 +1,7 @@
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR 
-Currently, two official plugins a
+Currently, two official plugins 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) use [Babel](https://babeljs./)
 - [@vitejs/plugin-react-swc](https://github.com
 ## Expanding the ESL
