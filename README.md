@@ -1,7 +1,7 @@
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with H
-Currently, two official plugins 
+Currently, two official plugins
 - [@vitejs/plugin-react](https://github.co/vitejs/vite-plugin-react/blob/main/packages/plugin-reac) use[Babel] (https://babelj/)
 - [@vitejs/plugin-react-swc](
 ## Expanding
