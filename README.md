@@ -1,7 +1,7 @@
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite 
-Currently, two official plugi
+Currently, two official plug
 - [@vitejs/plugin-react](https://github.co/vitejs/vite-plugin-react/blob/main/packages/plugin-reac) us[Babel] (https://babe)
 - [@vitejs/plugin-react
 ## Expandi
